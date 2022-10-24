@@ -1,4 +1,4 @@
-###  👋 I'm [Jon Kurinsky](https://krnsk0.dev/), a generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
+### ➡️ I'm [Jon Kurinsky](https://krnsk0.dev/), a generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
 
 I spent the last two years working 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor)💻. But, I'm on the market now! 👀
 
