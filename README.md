@@ -12,3 +12,5 @@ Much of my recent output is closed-source, but here are some assorted code sampl
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated blog (Gatsby/React, deployed [here](https://krnsk0.dev/))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnsk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krnsk0)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/krnsk0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
