@@ -1,1 +1,2 @@
-## I'm a fullstack generalist
+###  👋 I'm Jon Kurinsky, a generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL. I spent the last two years working [a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). As a collaborative over-communicator who loves to act as a force multiplier, I firmly believe that software is a team sport, and I'm ready to dive deep into video-on-demand, real-time collaboration, WASM, or web peformance on a mature team with a continuous-learning mindset. 
+
