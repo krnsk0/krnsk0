@@ -1,7 +1,7 @@
 ### ➡️ I'm Jon Kurinsky, a generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
 I spent the last two years working 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). **I'm on the job market now**!  As a collaborative over-communicator who loves to act as a force multiplier, I firmly believe that software is a team sport. I'm ready to work on video-on-demand, real-time collaboration & editing, or another challenging problem with a mature team that has a continuous-learning mindset.  My latest resume can be found [here](https://www.krnsk0.dev/static/Jon_Kurinsky-895a4e987cef69fb4a224d3d4f615112.pdf).
 
-### Code Samples
+### 💻 Code Samples
 Much of my recent output is closed-source, but here are some assorted code samples:
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI application for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
 * [sort_buddy](https://github.com/krnsk0/sort_buddy) is a SPA that visualizes sorting algorithms commonly taught in algorithms courses (React/Redux; deployed [here](https://krnsk0.github.io/sort_buddy/))
@@ -11,7 +11,7 @@ Much of my recent output is closed-source, but here are some assorted code sampl
 * [client-side-mp4-thumbnailer](https://github.com/krnsk0/client-side-mp4-thumbnailer) is a demo comparing techniques for extracting images from mp4/h264 in the browser (React/webcodecs; deployed [here](https://client-side-mp4-thumbnailer.vercel.app/))
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated blog (Gatsby/React, deployed [here](https://krnsk0.dev/))
 
-### Writing
+### ✏️ Writing
 Most of my writing for the last several years has been on private RFCs and ADRs, but here are some blog posts:
 * [A Thorough Introduction to Git's Interactive Patch Mode](https://dev.to/krnsk0/a-thorough-introduction-to-git-s-interactive-patch-mode-4bl6)
 * Solving Every Skyscraper Puzzle, parts [one](https://www.krnsk0.dev/writing/skyscraper-puzzle-1) and [two](https://www.krnsk0.dev/writing/skyscraper-puzzle-2)
