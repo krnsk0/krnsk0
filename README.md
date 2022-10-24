@@ -1,8 +1,8 @@
 ###  👋 I'm [Jon Kurinsky](https://krnsk0.dev/), a generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
 
-I spent the last two years working 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor)💻. But, I'm looking for a new job! 👀
+I spent the last two years working 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor)💻. But, I'm on the market now! 👀
 
-As a collaborative over-communicator who loves to act as a force multiplier, I firmly believe that software is a team sport 🤝, and I'm ready for a deep dive into video-on-demand, real-time collaboration, WASM, or web peformance on a mature team with a continuous-learning mindset 🧑‍🏫.  My latest resume lives [here](https://www.krnsk0.dev/static/Jon_Kurinsky-895a4e987cef69fb4a224d3d4f615112.pdf).
+As a collaborative over-communicator 🗣 who loves to act as a force multiplier 💪, I firmly believe that software is a team sport 🤝. I'm ready for a deep dive into video-on-demand, real-time collaboration & editing tools, WASM, or web peformance on a mature team with a continuous-learning mindset 🧑‍🏫.  My latest resume lives [here](https://www.krnsk0.dev/static/Jon_Kurinsky-895a4e987cef69fb4a224d3d4f615112.pdf).
 
 ### Code Samples
 Much of my recent output is closed-source, but here are some assorted code samples:
