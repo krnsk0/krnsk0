@@ -12,7 +12,7 @@ Much of my recent output is closed-source, but here are some assorted code sampl
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated blog (Gatsby/React, deployed [here](https://krnsk0.dev/))
 
 ### ✏️ Writing
-Most of my writing for the last several years has been on private RFCs and ADRs, but here are some blog posts:
+Most of my writing for the last several years is in private RFCs and ADRs, but here are some blog posts:
 * [A Thorough Introduction to Git's Interactive Patch Mode](https://dev.to/krnsk0/a-thorough-introduction-to-git-s-interactive-patch-mode-4bl6)
 * Solving Every Skyscraper Puzzle, parts [one](https://www.krnsk0.dev/writing/skyscraper-puzzle-1) and [two](https://www.krnsk0.dev/writing/skyscraper-puzzle-2)
 
