@@ -17,7 +17,5 @@ Most of my writing for the last several years has been on private RFCs and ADRs,
 * Solving Every Skyscraper Puzzle, parts [one](https://www.krnsk0.dev/writing/skyscraper-puzzle-1) and [two](https://www.krnsk0.dev/writing/skyscraper-puzzle-2)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krnsk0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnsk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krnsk0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnsk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
