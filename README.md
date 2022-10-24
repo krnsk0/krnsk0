@@ -11,6 +11,13 @@ Much of my recent output is closed-source, but here are some assorted code sampl
 * [client-side-mp4-thumbnailer](https://github.com/krnsk0/client-side-mp4-thumbnailer) is a demo comparing techniques for extracting images from mp4/h264 in the browser (React/webcodecs; deployed [here](https://client-side-mp4-thumbnailer.vercel.app/))
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated blog (Gatsby/React, deployed [here](https://krnsk0.dev/))
 
+### Writing
+Most of my writing for the last several years has been on private RFCs and ADRs, but here are some blog posts:
+* [A Thorough Introduction to Git's Interactive Patch Mode](https://dev.to/krnsk0/a-thorough-introduction-to-git-s-interactive-patch-mode-4bl6)
+* Solving Every Skyscraper Puzzle, parts [one](https://www.krnsk0.dev/writing/skyscraper-puzzle-1) and [two](https://www.krnsk0.dev/writing/skyscraper-puzzle-2)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=krnsk0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnsk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krnsk0)](https://git.io/streak-stats)
-<a href="https://www.linkedin.com/in/krnsk0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
