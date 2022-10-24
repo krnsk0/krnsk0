@@ -12,3 +12,4 @@ Much of my recent output is closed-source, but here are some assorted code sampl
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated blog (Gatsby/React, deployed [here](https://krnsk0.dev/))
 
 [![krnsk0's GitHub stats](https://github-readme-stats.vercel.app/api?username=krnsk0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krnsk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
