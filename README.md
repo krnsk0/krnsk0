@@ -5,7 +5,7 @@ I spent the last two years working 🎥[a browser-based multitrack video editor]
 My latest resume lives [here](https://www.krnsk0.dev/static/Jon_Kurinsky-895a4e987cef69fb4a224d3d4f615112.pdf)
 
 ### Code Samples
-Much of my work is closed-source, but here are some assorted code samples:
+Much of my recent output is closed-source, but here are some assorted code samples:
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI application for git user switching (Node, shelljs)
 * [sort_buddy](https://github.com/krnsk0/sort_buddy) is a SPA that visualizes sorting algorithms commonly taught in algorithms courses (React/Redux; deployed [here](https://krnsk0.github.io/sort_buddy/))
 * [ng-draw](https://ng-draw.vercel.app/) is a canvas-based shape-drawing application built to learn HTML canvas and Angular (deployed [here](https://github.com/krnsk0/ng-draw))
