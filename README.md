@@ -8,7 +8,7 @@ Much of my recent (and most interesting) output is closed-source, but here are s
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI application for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
 * [sort_buddy](https://github.com/krnsk0/sort_buddy) visualizes sorting algorithms commonly taught in intro algorithms courses (React/Redux; deployed [here](https://krnsk0.github.io/sort_buddy/))
 * [ng-draw](https://github.com/krnsk0/ng-draw/) is a canvas-based shape-drawing application built to learn HTML canvas and Angular (deployed [here](https://ng-draw.vercel.app/))
-* [snek_io](https://github.com/krnsk0/snek_io) is a multiplayer websocket game built for a hackathon (no client framework, Express and Socket.io backend; eployed [here](https://snekio.herokuapp.com/))
+* [snek_io](https://github.com/krnsk0/snek_io) is a multiplayer websocket game built for a hackathon (no client framework, Express and Socket.io backend; deployed [here](https://snekio.herokuapp.com/))
 * [planetfall](https://github.com/krnsk0/idler/) is the start of an idle game with a complex data model built to learn Mobx and Mobx-Keystone (deployed [here](https://idler-demo.vercel.app/))
 * [client-side-mp4-thumbnailer](https://github.com/krnsk0/client-side-mp4-thumbnailer) is a demo comparing techniques for extracting images from mp4/h264 in the browser (React/webcodecs; deployed [here](https://client-side-mp4-thumbnailer.vercel.app/))
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated blog (Gatsby/React, deployed [here](https://krnsk0.dev/))
