@@ -1,7 +1,7 @@
 ### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
 I spent the last two years working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). **I'm on the job market now**! 
 
-I'm a collaborative over-communicator who loves to act as a force multiplier, and I firmly believe that software is a team sport. I'm interested in problems in the area of video and audio, real-time collaboration & editing, and (generally) pushing the limits of the browser past what conventional wisdom says ought to be possible (lookin' at you, wasm 👀). I'd like to join a mature, collaborative team with a growth and continuous-learning mindset. My latest resume can be found [here](https://www.krnsk0.dev/static/Jon_Kurinsky-895a4e987cef69fb4a224d3d4f615112.pdf).
+I'm a collaborative over-communicator who loves to act as a force multiplier, and I firmly believe that software is a team sport. I'm interested in problems in the area of video and audio, real-time collaboration & editing, and (generally) pushing the limits of the browser past what conventional wisdom says ought to be possible.
 
 ### Code Samples 💻 
 Much of my recent (and most interesting) output is closed-source, but here are some assorted older projects which I _can_ share:
