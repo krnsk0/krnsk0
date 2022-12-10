@@ -1,5 +1,5 @@
 ### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
-I spent the last two years working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). **I'm on the job market now**! 
+I spent the last two years working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I currently work on the video player at [Tubi](https://code.tubitv.com/).
 
 I'm a collaborative over-communicator who loves to act as a force multiplier, and I firmly believe that software is a team sport. I'm interested in problems in the area of video and audio, real-time collaboration & editing, and (generally) pushing the limits of the browser past what conventional wisdom says ought to be possible.
 
