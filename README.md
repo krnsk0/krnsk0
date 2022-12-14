@@ -1,8 +1,6 @@
 ### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
 I spent the last two years working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I currently work on the video player at [Tubi](https://code.tubitv.com/).
 
-I'm a collaborative over-communicator who loves to act as a force multiplier, and I firmly believe that software is a team sport. I'm interested in problems in the area of video and audio, real-time collaboration & editing, and (generally) pushing the limits of the browser past what conventional wisdom says ought to be possible.
-
 ### Code Samples 💻 
 Much of my recent (and most interesting) output is closed-source, but here are some assorted older projects which I _can_ share:
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI application for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
