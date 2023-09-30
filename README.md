@@ -1,8 +1,10 @@
-### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist most experienced with Typescript, React, Node, ffmpeg, and GraphQL.
-I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor).
+### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist.
+I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser.
+
+I often practice TDD, hold myself to a high standard of quality and readability, and I spend a lot of time thinking about testing strategy for client applications.
 
 ### Code Samples 💻
-Much of my recent (and most interesting) output is closed-source, but here are some assorted older projects which I _can_ share:
+Much of my recent (and most interesting) output is closed-source, but here are some assorted projects which I can share here:
 * [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (Typescript, vitest); on NPM [here](https://www.npmjs.com/package/gcull)
 * [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (Typescript, vitest); on NPM [here](https://www.npmjs.com/package/gchk)
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI tool for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
