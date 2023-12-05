@@ -1,7 +1,5 @@
 ### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist.
-I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser.
-
-I often practice TDD, hold myself to a high standard of quality and readability, and I spend a lot of time thinking about testing strategy for client applications.
+I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser. I often practice TDD, hold myself to a high standard of quality and readability, and spend a lot of time thinking about how tests can inform design.
 
 ### Code Samples 💻
 Much of my recent (and most interesting) output is closed-source, but here are some assorted projects which I can share here:
