@@ -5,14 +5,14 @@ I currently work on the video player at [Tubi](https://code.tubitv.com/). I spen
 Much of my recent and most interesting output is closed-source, but here are some assorted projects which I can share:
 
 ## 2023
-* [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/callback-batcher))
-* [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/gcull))
-* [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (Typescript, vitest; ; on NPM [here](https://www.npmjs.com/package/gchk))
- * [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-liner that installs and configures Prettier (Node; vitest; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
+* [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (`ts`, `vitest`; on NPM [here](https://www.npmjs.com/package/callback-batcher))
+* [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (`ts`, `vitest`; on NPM [here](https://www.npmjs.com/package/gcull))
+* [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (`ts`, `vitest`; ; on NPM [here](https://www.npmjs.com/package/gchk))
+ * [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-liner that installs and configures Prettier (`node`; `vitest`; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
 
 ## 2022
-* [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated dev blog (Astro, deployed [here](https://krnsk0.dev/))
-* [planetfall](https://github.com/krnsk0/idler/) is a browser game with a complex data model built to explore some possibilities and constraints around Mobx and Mobx-Keystone (deployed [here](https://idler-demo.vercel.app/))
+* [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated dev blog (`astro`, deployed [here](https://krnsk0.dev/))
+* [planetfall](https://github.com/krnsk0/idler/) is a browser game with a complex data model built to explore some possibilities and constraints around `mobx` and `mobx-keystone` (deployed [here](https://idler-demo.vercel.app/))
 
 ## 2021
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI tool for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
