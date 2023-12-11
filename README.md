@@ -3,10 +3,11 @@ I currently work on the video player at [Tubi](https://code.tubitv.com/). I spen
 
 ### Code Samples 💻
 Much of my recent (and most interesting) output is closed-source, but here are some assorted projects which I can share here:
+* [callback-batcher]([https://www.npmjs.com/package/callback-batcher](https://github.com/krnsk0/callback-batcher)) is a small library for isomorphic rate-limiting of events. Written for hackathon for [tubitv.com](tubitv.com) (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/callback-batcher))
 * [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/gcull))
 * [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (Typescript, vitest; ; on NPM [here](https://www.npmjs.com/package/gchk))
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI tool for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
-* [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-liner that installs and configures Prettier (Node; vitest; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
+ * [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-liner that installs and configures Prettier (Node; vitest; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
 * [sort_buddy](https://github.com/krnsk0/sort_buddy) visualizes sorting algorithms commonly taught in intro algorithms courses (React/Redux; deployed [here](https://krnsk0.github.io/sort_buddy/))
 * [ng-draw](https://github.com/krnsk0/ng-draw/) is a canvas-based shape-drawing toy built to learn HTML canvas and Angular (deployed [here](https://ng-draw.vercel.app/))
 * [snek_io](https://github.com/krnsk0/snek_io) is a multiplayer websocket game built for a hackathon (no client framework, Express and Socket.io backend; deployed [here](https://snekio.fly.dev/))
