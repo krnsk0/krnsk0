@@ -3,7 +3,7 @@ I currently work on the video player at [Tubi](https://code.tubitv.com/). I spen
 
 ### Code Samples 💻
 Much of my recent (and most interesting) output is closed-source, but here are some assorted projects which I can share here:
-* [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events. Won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/callback-batcher))
+* [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/callback-batcher))
 * [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (Typescript, vitest; on NPM [here](https://www.npmjs.com/package/gcull))
 * [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (Typescript, vitest; ; on NPM [here](https://www.npmjs.com/package/gchk))
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI tool for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
