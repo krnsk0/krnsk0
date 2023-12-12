@@ -18,7 +18,7 @@ Much of my recent and most interesting output is closed-source, but here are som
 * [guser](https://github.com/krnsk0/guser) is a small, well-tested CLI tool for git user switching (Node, shelljs; on NPM [here](https://www.npmjs.com/package/guser))
 * [ng-draw](https://github.com/krnsk0/ng-draw/) is a canvas-based shape-drawing toy built to learn HTML canvas and Angular (deployed [here](https://ng-draw.vercel.app/))
 
-## <2020
+## <= 2020
 * [sort_buddy](https://github.com/krnsk0/sort_buddy) visualizes sorting algorithms commonly taught in intro algorithms courses (`react`/`redux`; deployed [here](https://krnsk0.github.io/sort_buddy/))
 * [snek_io](https://github.com/krnsk0/snek_io) is a multiplayer websocket game built for a hackathon (no client framework, `express` and `socket.io` backend; deployed [here](https://snekio.fly.dev/))
 * [pixalive](https://github.com/pixalive/pixalive) is a multiplayer editor for animated pixel art built by a small team for a hackathon (`react`, HTML5 canvas, `node`, `postgres`; deployed [here](https://pixalive.fly.dev/); desktop only!)
