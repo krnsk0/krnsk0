@@ -1,4 +1,4 @@
-### ➡️ I'm Jon Kurinsky, a frontend-leaning generalist.
+### ➡️ I'm Jon Kurinsky, a frontend-leaning developer with a focus on working with media in the browser
 I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser. I often practice TDD, hold myself to a high standard of quality and readability, and spend a lot of time thinking about how tests can inform design.
 
 ### Code Samples 💻
