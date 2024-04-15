@@ -8,7 +8,7 @@ Much of my recent and most interesting output is closed-source, but here are som
 * [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/callback-batcher))
 * [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/gcull))
 * [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/gchk))
- * [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-liner that installs and configures Prettier (`node`, `vitest`; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
+ * [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-line command that installs and configures Prettier in a repository (`node`, `vitest`; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
 
 #### 2022
 * [krnsk0.dev](https://github.com/krnsk0/krnsk0.dev) is my infrequently-updated dev blog (`astro`, deployed [here](https://krnsk0.dev/))
