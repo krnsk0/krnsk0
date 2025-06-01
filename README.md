@@ -4,6 +4,9 @@ I currently work on the video player at [Tubi](https://code.tubitv.com/). I spen
 ### Code Samples 💻
 Much of my recent and most interesting output is closed-source, but here are some assorted projects which I can share:
 
+#### 2025
+* [modeload](https://github.com/krnsk0/modeload) small vibecoded CLI tool to back-up and restore Cursor IDE custom agent mode configs. (`typescript`, `Cursor IDE`; on NPM [here](https://www.npmjs.com/package/modeload?activeTab=readme))
+
 #### 2023
 * [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/callback-batcher))
 * [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/gcull))
