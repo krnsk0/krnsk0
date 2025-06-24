@@ -1,5 +1,5 @@
 ### ➡️ I'm Jon Kurinsky, a frontend-leaning developer with a focus on video and audio
-I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser. I often practice TDD, hold myself to a high standard of quality and readability, and spend a lot of time thinking about how tests can inform design.
+I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser. I often practice TDD, hold myself to a high standard of quality and readability, and spend a lot of time thinking about how tests can inform design. I think of myself as a product-focused engineer, and I prefer to work with cross-functional teams that work with a high degree of autonomy, and which make data-driven decisions.
 
 ### Code Samples 💻
 Much of my recent and most interesting output is closed-source, but here are some assorted projects which I can share:
@@ -31,5 +31,3 @@ Most of my writing for the last several years is in private RFCs and ADRs; here 
 * [A Thorough Introduction to Git's Interactive Patch Mode](https://dev.to/krnsk0/a-thorough-introduction-to-git-s-interactive-patch-mode-4bl6)
 * Solving Every Skyscraper Puzzle, parts [one](https://www.krnsk0.dev/writing/skyscraper-puzzle-1) and [two](https://www.krnsk0.dev/writing/skyscraper-puzzle-2)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=krnsk0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
