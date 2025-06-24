@@ -1,5 +1,5 @@
 ### ➡️ I'm Jon Kurinsky, a frontend-leaning developer with a focus on video and audio
-I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser. I often practice TDD, hold myself to a high standard of quality and readability, and spend a lot of time thinking about how tests can inform design. I think of myself as a product-focused engineer, and I prefer to work with cross-functional teams that work with a high degree of autonomy, and which make data-driven decisions.
+I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). I've gone fairly deep with video and audio in the browser. I often practice TDD, hold myself to a high standard of quality and readability, and spend a lot of time thinking about how tests can inform design. I think of myself as a product-focused engineer, and I prefer to work with cross-functional teams that work with a high degree of autonomy, and which make data-driven decisions. 🔷[Find me on LinkedIn](https://www.linkedin.com/in/krnsk0/)
 
 ### Code Samples 💻
 Much of my recent and most interesting output is closed-source, but here are some assorted projects which I can share:
@@ -8,7 +8,7 @@ Much of my recent and most interesting output is closed-source, but here are som
 * [modeload](https://github.com/krnsk0/modeload) is a small, partly-vibecoded CLI tool to back-up and restore Cursor IDE custom agent mode configs-- a stopgap until Cursor supports this feature natively (`typescript`, `Cursor IDE`; on NPM [here](https://www.npmjs.com/package/modeload?activeTab=readme))
 
 #### 2023
-* [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/callback-batcher))
+* [callback-batcher](https://github.com/krnsk0/callback-batcher) is a small library for isomorphic rate-limiting of events; won 2nd place at [tubitv.com](tubitv.com) 2023 company hackathon (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/callback-batcher
 * [gcull](https://github.com/krnsk0/gcull) is a small, well-tested CLI tool for interactively deleting merged and stale local git branches (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/gcull))
 * [gchk](https://githib.com/krnsk0/gchk) is a small, well-tested CLI tool for interactively checking out git branches (`typescript`, `vitest`; on NPM [here](https://www.npmjs.com/package/gchk))
  * [prettier-inittier](https://github.com/krnsk0/prettier-inittier/) is a one-line command that installs and configures Prettier in a repository (`node`, `vitest`; on NPM [here](https://www.npmjs.com/package/prettier-inittier))
