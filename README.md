@@ -1,4 +1,4 @@
-### ➡️ I'm Jon Kurinsky, a frontend-leaning developer with a focus on video and audio
+### ➡️ I'm Jon Kurinsky, a product-minded, client-focused developer with a specialization in rich media experiences
 I am a product-minded software engineer with specialization in interactive, complex, and highly-stateful user interfaces. I prefer to work with high-performing cross-functional product teams that make decisions using data and experimentation. I have a record of driving change via advocacy and education around software quality through a disciplined approach to unit testing and test-driven continuous refactoring. I have experience with adaptive bitrate video playback and the use of browser APIs to build performant multimedia experiences on both desktop and low-power OTT devices. I've been called a super-communicator, and I am an experienced speaker and educator.
 
 I currently work on the video player at [Tubi](https://code.tubitv.com/). I spent two years before that working on 🎥[a browser-based multitrack video editor](https://www.screencastify.com/products/video-editor). 🔷[Find me on LinkedIn](https://www.linkedin.com/in/krnsk0/)
